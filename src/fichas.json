@@ -1,0 +1,246 @@
+{
+  "tool": "weighted-random-picker",
+  "version": 1,
+  "locale": "pt-br",
+  "createdAt": "2026-02-07T00:13:38.520Z",
+  "settings": {
+    "k": 1,
+    "mode": "wor",
+    "useSeed": false,
+    "seed": null,
+    "merge": false,
+    "showZero": false,
+    "strictWor": false
+  },
+  "stats": {
+    "totalWeight": 22673,
+    "validCount": 43
+  },
+  "items": [
+    {
+      "text": "Magnus",
+      "weight": 722,
+      "count": 1
+    },
+    {
+      "text": "Aloisio",
+      "weight": 575,
+      "count": 1
+    },
+    {
+      "text": "Cilas",
+      "weight": 502,
+      "count": 1
+    },
+    {
+      "text": "Diorlando",
+      "weight": 368,
+      "count": 1
+    },
+    {
+      "text": "Gilcilene",
+      "weight": 489,
+      "count": 1
+    },
+    {
+      "text": "Estefania",
+      "weight": 475,
+      "count": 1
+    },
+    {
+      "text": "Bruno Benedito",
+      "weight": 497,
+      "count": 1
+    },
+    {
+      "text": "Emanoel",
+      "weight": 508,
+      "count": 1
+    },
+    {
+      "text": "Camila",
+      "weight": 541,
+      "count": 1
+    },
+    {
+      "text": "Walber",
+      "weight": 493,
+      "count": 1
+    },
+    {
+      "text": "Marlisson Augusto",
+      "weight": 545,
+      "count": 1
+    },
+    {
+      "text": "Josinei",
+      "weight": 544,
+      "count": 1
+    },
+    {
+      "text": "Arlison",
+      "weight": 498,
+      "count": 1
+    },
+    {
+      "text": "Elquison",
+      "weight": 502,
+      "count": 1
+    },
+    {
+      "text": "Gladstone",
+      "weight": 606,
+      "count": 1
+    },
+    {
+      "text": "Diego Zanetti",
+      "weight": 522,
+      "count": 1
+    },
+    {
+      "text": "Elissandro",
+      "weight": 499,
+      "count": 1
+    },
+    {
+      "text": "Sergio Zanetti",
+      "weight": 578,
+      "count": 1
+    },
+    {
+      "text": "Gabriel Zanetti",
+      "weight": 557,
+      "count": 1
+    },
+    {
+      "text": "Humberto",
+      "weight": 521,
+      "count": 1
+    },
+    {
+      "text": "Jeremias",
+      "weight": 533,
+      "count": 1
+    },
+    {
+      "text": "Rafael",
+      "weight": 510,
+      "count": 1
+    },
+    {
+      "text": "Bruno Jessé",
+      "weight": 811,
+      "count": 1
+    },
+    {
+      "text": "Alexandro",
+      "weight": 522,
+      "count": 1
+    },
+    {
+      "text": "Douglas Nogueira",
+      "weight": 537,
+      "count": 1
+    },
+    {
+      "text": "Sidney",
+      "weight": 534,
+      "count": 1
+    },
+    {
+      "text": "Junior Viana",
+      "weight": 557,
+      "count": 1
+    },
+    {
+      "text": "Elizeu",
+      "weight": 511,
+      "count": 1
+    },
+    {
+      "text": "Fabio",
+      "weight": 533,
+      "count": 1
+    },
+    {
+      "text": "Francisco",
+      "weight": 540,
+      "count": 1
+    },
+    {
+      "text": "Celio",
+      "weight": 485,
+      "count": 1
+    },
+    {
+      "text": "Luciano Pastana",
+      "weight": 244,
+      "count": 1
+    },
+    {
+      "text": "Eduardo",
+      "weight": 628,
+      "count": 1
+    },
+    {
+      "text": "DOUGLAS ZANELLA RIBEIRO",
+      "weight": 600,
+      "count": 1
+    },
+    {
+      "text": "Victor",
+      "weight": 551,
+      "count": 1
+    },
+    {
+      "text": "LUCELMA CONCEICAO DE MELO",
+      "weight": 604,
+      "count": 1
+    },
+    {
+      "text": "KETLEN",
+      "weight": 569,
+      "count": 1
+    },
+    {
+      "text": "Odair",
+      "weight": 510,
+      "count": 1
+    },
+    {
+      "text": "ANAELDSON AMARAL ARAUJO",
+      "weight": 499,
+      "count": 1
+    },
+    {
+      "text": "EDIELK",
+      "weight": 566,
+      "count": 1
+    },
+    {
+      "text": "Neri",
+      "weight": 582,
+      "count": 1
+    },
+    {
+      "text": "EDIMON CARVALHO SOARES",
+      "weight": 540,
+      "count": 1
+    },
+    {
+      "text": "FELIPE",
+      "weight": 165,
+      "count": 1
+    }
+  ],
+  "result": {
+    "winners": [
+      {
+        "index": 10,
+        "text": "Marlisson Augusto",
+        "weight": 545
+      }
+    ]
+  },
+  "audit": null
+}
